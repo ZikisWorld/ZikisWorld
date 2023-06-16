@@ -14,11 +14,7 @@
 - ⚡ Fun fact. I know my code, and I know my movies—Hollywood's my guilty pleasure! 🍿
 <!-- --------------- About Me - END -->
 
-<!-- GitHub Streak Stats-->
-<p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZikisWorld&theme=radical&hide_border=true"/>
-</p>
-<!-- GitHub Streak Stats-END-->
+
 
 <!-- Languages & frameworks-->
 
